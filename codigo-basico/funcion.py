@@ -17,3 +17,11 @@ elif opcion == 3:
 
 else:
     print('Escribe una opción correcta.')
+
+def suma (a, b):
+    print ('Se suman dos nuemros')
+    resultado = a + b
+    return resultado
+
+sumatoria = suma (1, 4)
+ print (sumatoria)
