@@ -1,0 +1,21 @@
+Creando un ambiente virtual con VENV
+
+Creación de ambiente Virtual:
+py -m venv nombre_venv
+
+Usualmente el nombre del ambiente virtual es venv.
+-----------------------------------------------------
+Activación del ambiente virtual:
+Windows:
+.\venv\Scripts\activate
+
+Unix o MacOS:
+source venv/bin/activate
+-----------------------------------------------------
+Desactivar el ambiente virtual:
+deactivate
+
+Crear un alias en linux/mac:
+alias nombre-alias=.\venv\Scripts\activate
+
+`alias avenv=“source venv/bin/activate”`
