@@ -29,5 +29,3 @@ else:
     print("Ingresa una opcion correcta")
 
 #Geovanny E. Villa Sánchez
-#hola
-#COP (valor fijo)

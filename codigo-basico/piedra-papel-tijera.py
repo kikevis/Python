@@ -100,3 +100,5 @@ while is_game:
 
   print(quien_gano(oponente, usuario))
   is_game = seguir_jugando(input('Quieres seguir jugando? '))
+
+#Geovanny E. Villa Sánchez
