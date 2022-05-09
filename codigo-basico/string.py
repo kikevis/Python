@@ -12,7 +12,6 @@ Bienvenido
 1 - MAYUSCULA
 2 - MINISCULA
 3 - PRIMERA MAYUSCULA
-4 - REMPLAZAR ALGUNA LETRA DEL NOMBRE
 
 Elige una opcion:
 """
@@ -28,8 +27,28 @@ elif opcion == 2:
 elif opcion == 3:
     #CAPITALIZE combiarte el texto a la primera letra en mayuscula
     print(nombre.capitalize())
-elif opcion == 4:
-    
+else:
+    print("Ingresa una opcion correcta")
+
+letters = """
+Hola de nuevo
+
+¿Te gustaria saber cuantas letras tiene tu nombre?
+
+1 - SI
+2 - NO
+
+Elige una opcion:
+"""
+
+letras = int(input(letters))
+
+if letras == 1:
+    #LEN te dice el numero de caractares
+    num = str(len(nombre))
+    print("El nombre tiene " + num + " caracteres")
+elif letras == 2:
+    print("Ok, Bye")
 else:
     print("Ingresa una opcion correcta")
 
