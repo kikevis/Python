@@ -4,7 +4,7 @@ Bienvenido, ingresa un nombre
 nombre = str(input(name))
 
 #STRIP es un metodo que eimina los espacios basura que estan al principio o al final
-nombre = nombre.strip()
+nombre = nombre.replace(' ', '').strip()
 
 option = """
 Bienvenido
@@ -29,6 +29,7 @@ elif opcion == 3:
     print(nombre.capitalize())
 else:
     print("Ingresa una opcion correcta")
+
 
 letters = """
 Hola de nuevo
