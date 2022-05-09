@@ -44,7 +44,7 @@ Elige una opcion:
 letras = int(input(letters))
 
 if letras == 1:
-    #LEN te dice el numero de caractares
+    #LEN te dice el numero de caractares en una variable
     num = str(len(nombre))
     print("El nombre tiene " + num + " caracteres")
 elif letras == 2:
