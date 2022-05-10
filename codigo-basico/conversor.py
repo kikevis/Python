@@ -1,5 +1,5 @@
 def conversor(tipo_pesos, valor_usd):
-    pesos = float(input("¿Cuantos pesos " + tipo_pesos + " tienes?: "))
+    pesos = float(input("¿Cuantos pesos {} tienes?: ".format(tipo_pesos)))
     usd = pesos / valor_usd
     usd = round(usd, 2)
     usd = str(usd)
