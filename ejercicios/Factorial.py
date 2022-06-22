@@ -18,4 +18,4 @@ x=int(input())
 print(fact(x))
 
 #Geovanny E. Villa Sánchez
-#KikeVis
+#KikeViS

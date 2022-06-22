@@ -15,4 +15,4 @@ nombre[::-1]  #Al no haber parámetro en los 2 primeros lugares, se interpreta q
 #"ocsicnarF"
 
 #Geovanny E. Villa Sánchez
-#KikeVis
+#KikeViS
