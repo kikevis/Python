@@ -20,3 +20,6 @@ class InputOutString(object):
 strObj = InputOutString()
 strObj.getString()
 strObj.printString()
+
+#Geovanny E. Villa Sánchez
+#KikeVis

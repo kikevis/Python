@@ -24,6 +24,7 @@ def suma (a, b):
     return resultado
 
 sumatoria = suma (1, 4)
- print (sumatoria)
+print (sumatoria)
 
 #Geovanny E. Villa Sánchez
+#KikeVis

@@ -21,3 +21,6 @@ for row in range(rowNum):
         multilist[row][col]= row*col
 
 print(multilist)
+
+#Geovanny E. Villa Sánchez
+#KikeVis

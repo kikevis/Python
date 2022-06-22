@@ -16,3 +16,6 @@ def fact(x):
 
 x=int(input())
 print(fact(x))
+
+#Geovanny E. Villa Sánchez
+#KikeVis

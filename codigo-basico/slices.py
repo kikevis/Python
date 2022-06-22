@@ -13,3 +13,6 @@ nombre[1::3] #Arranca desde el índice 1 hasta el final del string (al no haber 
 #"rcc"
 nombre[::-1]  #Al no haber parámetro en los 2 primeros lugares, se interpreta que se arranca desde el inicio hasta el final, pero en pasos de 1 en 1 con la palabra al revés, porque es -1.
 #"ocsicnarF"
+
+#Geovanny E. Villa Sánchez
+#KikeVis
