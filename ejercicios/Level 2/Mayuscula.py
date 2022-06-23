@@ -21,3 +21,6 @@ while True:
 
 for sentence in lines:
     print(sentence)
+
+#Geovanny E. Villa Sánchez
+#KikeViS

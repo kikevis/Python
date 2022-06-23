@@ -14,7 +14,9 @@ Usamos set container para eliminar datos duplicados automáticamente y luego
 usamos sorted() para ordenar los datos. """
 
 #solution
-
 s = input()
 words = [word for word in s.split(" ")]
 print(" ".join(sorted(list(set(words)))))
+
+#Geovanny E. Villa Sánchez
+#KikeViS
