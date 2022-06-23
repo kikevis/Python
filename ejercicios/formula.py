@@ -1,3 +1,4 @@
+#Level 2
 """ Escriba un programa que calcule e imprima el valor de acuerdo con la fórmula dada:
 Q = raíz cuadrada de [(2 * C * D)/H]
 Los siguientes son los valores fijos de C y H:

@@ -1,3 +1,4 @@
+#Level 1
 """ Escriba un programa que pueda calcular el factorial de un número dado.
 Los resultados deben imprimirse en una secuencia separada por comas en una sola línea.
 Supongamos que se proporciona la siguiente entrada al programa:

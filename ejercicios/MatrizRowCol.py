@@ -1,3 +1,4 @@
+#Level 1
 """ Escriba un programa que tome 2 dígitos, X, Y como entrada y genere una matriz bidimensional. El valor del elemento en la i-ésima fila y la j-ésima columna de la matriz debe ser i*j.
 Nota: i=0,1.., X-1; j=0,1,¡Y-1.
 Ejemplo

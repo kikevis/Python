@@ -1,3 +1,4 @@
+#Level 1
 """ Escriba un programa que acepte una secuencia de números separados por comas desde la consola y genere una lista y una tupla que contenga cada número.
 Supongamos que se proporciona la siguiente entrada al programa:
 34,67,55,33,12,98

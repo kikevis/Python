@@ -1,3 +1,4 @@
+#Level 2
 """ Con un número entero n dado, escriba un programa para generar un diccionario que contenga (i, i*i) tal que sea un número entero entre 1 y n (ambos incluidos). y luego el programa debería imprimir el diccionario.
 Supongamos que se proporciona la siguiente entrada al programa:
 8

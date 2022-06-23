@@ -1,6 +1,3 @@
-
-
-
 #def tabla(numero):
 #    print('Esta es la tabla del {}'.format(str(numero)))
 #    for i in range(1,11):

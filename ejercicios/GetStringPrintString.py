@@ -1,3 +1,4 @@
+#Level 1
 """ Defina una clase que tenga al menos dos métodos:
 getString: para obtener una cadena de la entrada de la consola
 printString: para imprimir la cadena en mayúsculas.
