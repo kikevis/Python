@@ -96,7 +96,7 @@ print(bienvenida)
 
 while is_game:
   oponente = random.randint(1,3)
-  usuario = conversacion(input('Piedra, papel o tije...'))
+  usuario = conversacion(input('Piedra, papel o tijera...'))
 
   print(quien_gano(oponente, usuario))
   is_game = seguir_jugando(input('Quieres seguir jugando? '))
