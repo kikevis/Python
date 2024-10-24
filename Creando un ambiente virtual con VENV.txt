@@ -19,3 +19,12 @@ Crear un alias en linux/mac:
 alias nombre-alias=.\venv\Scripts\activate
 
 `alias avenv=“source venv/bin/activate”`
+
+lista paquetes
+pip freeze
+
+guarda la lista de paquetes en el .txt
+pip freeze > requirements.txt
+
+instala los paquetes del .txt
+pip install -r requirements.txt
