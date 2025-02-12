@@ -11,6 +11,9 @@ Windows:
 .\venv\Scripts\activate
 .\shell\Scripts\activate
 
+Correr Py:
+py manage.py runserver
+
 Unix o MacOS:
 source venv/bin/activate
 -----------------------------------------------------
